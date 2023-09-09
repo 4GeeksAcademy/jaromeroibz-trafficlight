@@ -10,3 +10,24 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.trafficlight {
+    background: black;
+    padding: 10px;
+    display: inline-block;
+}
+
+.luz {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.roja {background:red}
+.amarilla {background:yellow}
+.verde {background:green}
+
+.brillar {
+    box-shadow: 0px 0px 9px 4px #747DE8; 
+}
+
